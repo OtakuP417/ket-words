@@ -1,0 +1,7 @@
+{
+  "name": "ket-api",
+  "version": "1.0.0",
+  "description": "KET 单词打卡：账号注册登录与进度同步接口。所有密钥只放云函数环境变量。",
+  "main": "index.js",
+  "private": true
+}
